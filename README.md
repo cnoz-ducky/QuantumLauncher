@@ -1,9 +1,8 @@
 # QuantumLauncher
 Third party launcher for the game Quantum League which will inject a helper dll enabling console and executing host / connect commands.
 
-================================
-=============** How it Works **=============
-================================
+** How it Works **
+
 Open the launcher, select where your QuantumLeague exe is, it's actually called ```TimeWatch-Win64-Shipping.exe``` and can usually be found at ```C:\Program Files (x86)\Steam\steamapps\common\TimeWatch\TimeWatch\Binaries\Win64``` or wherever you may have your games installed.
 Next choose if you're host or client, host chooses map whereas client enters their target IP address.
 **Note for now the CLIENT must attempt connection to the host BEFORE the host is hosting. This can be the client launching first, sitting in menu and then having the host launch (just as precaution) or use console commands appropriately**
@@ -22,9 +21,10 @@ To Change level locally
 Command to be explored:
 ```open MapName?server```
 
-========================================================================
-=========================  ** Known Issues **  =============================
-========================================================================
+
+** Known Issues **
+
+
 - The game IS buggy, it relies on the host to process the game and sometimes it does have issues
 
 - When a match finishes, the hosting user's game will crash*
@@ -40,9 +40,10 @@ Command to be explored:
 * indicates there's a likely solution
 ** indicates it may be a while
 
-========================================================================
-=========================  ** Maps **  ==================================
-========================================================================
+
+** Maps **
+
+
 IN
 CargoShip
 ContainerYard
@@ -65,9 +66,9 @@ QuantumArena_AltLayout
 ShootingRange
 TutorialDM
 
-========================================================================
-=========================  ** Goals **  ==================================
-========================================================================
+
+** Goals **
+
 
 **Near Goals**
 - Have host sit in mainmenu while waiting for client to connect, then automatically switch maps - enabling the host to launch / host first.
@@ -92,12 +93,11 @@ TutorialDM
 - Changing server settings
 - in-game overlay
 - anti-cheat???
-- 
 
 
-========================================================================
-=========================  ** Thanks **  ==================================
-========================================================================
+
+** Thanks **
+
 
 Shoutout to Gwog on discord for being my inspiration for this project after creating a side-loading hack to get console up and running with p2p connection
 Shoutout to the discord server for so much encouragement / still being alive after all this time https://discord.gg/Ttd7Y7XW8N
