@@ -8,6 +8,7 @@ Third party launcher for the game Quantum League which will inject a helper dll 
 Open the launcher, select where your QuantumLeague exe is, it's actually called ```TimeWatch-Win64-Shipping.exe``` and can usually be found at ```C:\Program Files (x86)\Steam\steamapps\common\TimeWatch\TimeWatch\Binaries\Win64``` or wherever you may have your games installed.
 Next choose if you're host or client, host chooses map whereas client enters their target IP address.
 
+
 **Note for now the CLIENT must attempt connection to the host BEFORE the host is hosting. This can be the client launching first, sitting in menu and then having the host launch (just as precaution) or use console commands appropriately**
 
 
