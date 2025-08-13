@@ -12,7 +12,11 @@ Next choose if you're host or client, host chooses map whereas client enters the
 **Note for now the CLIENT must attempt connection to the host BEFORE the host is hosting. This can be the client launching first, sitting in menu and then having the host launch (just as precaution) or use console commands appropriately**
 
 
+
+
 ==**Console**==
+
+
 
 
 To Host:
@@ -46,10 +50,15 @@ Command to be explored:
 ** indicates it may be a while
 
 
+
+
 ==**Maps**==
 
 
-IN
+
+
+**IN**
+
 
 CargoShip
 
@@ -76,7 +85,9 @@ TutorialArena (SP)
 MainMenu (the main menu, but allows host to be first and then use serverTravel MapName)
 
 
-NOT IN: (Are map files associated with the game, but do not load from console command ```open map```)
+
+**NOT IN: **(Are map files associated with the game, but do not load from console command ```open map```)
+
 
 Chronos
 
@@ -91,7 +102,11 @@ ShootingRange
 TutorialDM
 
 
+
+
 ==**Goals**==
+
+
 
 
 **Near Goals**
@@ -117,7 +132,11 @@ TutorialDM
 - anti-cheat???
 
 
+
+
 ==**Thanks**==
+
+
 
 
 Shoutout to Gwog on discord for being my inspiration for this project after creating a side-loading hack to get console up and running with p2p connection
