@@ -50,25 +50,44 @@ Command to be explored:
 
 
 IN
+
 CargoShip
+
 ContainerYard
+
 MuseumArena
+
 NordicArena
+
 Overpass
+
 Overpass_Domination
+
 QuantumArena
+
 QuantumArenaNight
+
 QuantumStadium
+
 QuantumStadiumNight
+
 TutorialArena (SP)
+
 MainMenu (the main menu, but allows host to be first and then use serverTravel MapName)
 
+
 NOT IN: (Are map files associated with the game, but do not load from console command ```open map```)
+
 Chronos
+
 FPSTutorial
+
 MuseumArenaDay
+
 QuantumArena_AltLayout
+
 ShootingRange
+
 TutorialDM
 
 
