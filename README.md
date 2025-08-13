@@ -111,7 +111,6 @@ TutorialDM
 
 **Near Goals**
 - Have host sit in mainmenu while waiting for client to connect, then automatically switch maps - enabling the host to launch / host first.
-- Clear EAC error at start
 - Make UI better
 
 **Later Goals**
