@@ -9,6 +9,7 @@ choose if host or connecting
 click launch
 
 NOTE: Host needs to forward their port.
+
 NOTE: Client launches game first, once in main menu, then the host launches. (just weird unreal engine things)
 
 # **How it Works**
