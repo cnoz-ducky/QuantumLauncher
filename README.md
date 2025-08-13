@@ -1,6 +1,15 @@
 # QuantumLauncher
 Third party launcher for the game Quantum League which will inject a helper dll enabling console and executing host / connect commands.
 
+# **Installation**
+Download the zip file, extract it to whatever folder you want
+Run quantumJumper.exe
+Find your instance of ```TimeWatch-Win64-Shipping.exe``` if it doesn't automatically find where game is.
+choose if host or connecting
+click launch
+
+NOTE: Host needs to forward their port.
+NOTE: Client launches game first, once in main menu, then the host launches. (just weird unreal engine things)
 
 # **How it Works**
 
@@ -16,7 +25,7 @@ HOST NEEDS TO FORWARD THEIR PORT
 
 
 
-==**Console**==
+# **Console**
 
 
 
@@ -34,7 +43,7 @@ Command to be explored:
 ```open MapName?server```
 
 
-==**Known Issue**==
+# **Known Issue**
 
 
 - The game IS buggy, it relies on the host to process the game and sometimes it does have issues
@@ -54,7 +63,7 @@ Command to be explored:
 
 
 
-==**Maps**==
+# **Maps**
 
 
 
@@ -106,7 +115,7 @@ TutorialDM
 
 
 
-==**Goals**==
+# **Goals**
 
 
 
@@ -135,7 +144,7 @@ TutorialDM
 
 
 
-==**Thanks**==
+# **Thanks**
 
 
 
