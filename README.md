@@ -1,13 +1,13 @@
 # QuantumLauncher
 Third party launcher for the game Quantum League which will inject a helper dll enabling console and executing host / connect commands.
 
-** How it Works **
+==**How it Works**==
 
 Open the launcher, select where your QuantumLeague exe is, it's actually called ```TimeWatch-Win64-Shipping.exe``` and can usually be found at ```C:\Program Files (x86)\Steam\steamapps\common\TimeWatch\TimeWatch\Binaries\Win64``` or wherever you may have your games installed.
 Next choose if you're host or client, host chooses map whereas client enters their target IP address.
 **Note for now the CLIENT must attempt connection to the host BEFORE the host is hosting. This can be the client launching first, sitting in menu and then having the host launch (just as precaution) or use console commands appropriately**
 
-**Console**
+==**Console**==
 To Host:
 ```open MapName?Listen```
 To bring other user with you to other map
@@ -22,7 +22,7 @@ Command to be explored:
 ```open MapName?server```
 
 
-** Known Issues **
+==**Known Issue**==
 
 
 - The game IS buggy, it relies on the host to process the game and sometimes it does have issues
@@ -41,7 +41,7 @@ Command to be explored:
 ** indicates it may be a while
 
 
-** Maps **
+==**Maps**==
 
 
 IN
@@ -67,7 +67,7 @@ ShootingRange
 TutorialDM
 
 
-** Goals **
+==**Goals**==
 
 
 **Near Goals**
@@ -96,7 +96,7 @@ TutorialDM
 
 
 
-** Thanks **
+==**Thanks**==
 
 
 Shoutout to Gwog on discord for being my inspiration for this project after creating a side-loading hack to get console up and running with p2p connection
