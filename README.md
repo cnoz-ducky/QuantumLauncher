@@ -9,6 +9,8 @@ Open the launcher, select where your QuantumLeague exe is, it's actually called 
 Next choose if you're host or client, host chooses map whereas client enters their target IP address.
 
 
+HOST NEEDS TO FORWARD THEIR PORT
+
 **Note for now the CLIENT must attempt connection to the host BEFORE the host is hosting. This can be the client launching first, sitting in menu and then having the host launch (just as precaution) or use console commands appropriately**
 
 
